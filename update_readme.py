@@ -1,5 +1,6 @@
 from glob import glob
 
+
 lines = []
 with open("README.md", "r") as f:
     for line in f.readlines():
@@ -7,6 +8,7 @@ with open("README.md", "r") as f:
             break
         lines.append(line)
 lines.append("## Solved\n\n")
+
 problems = []
 for filename in glob("problems/*.py"):
     number, name = filename.replace("problems/", "").split("_", 1)
@@ -15,18 +17,14 @@ for filename in glob("problems/*.py"):
     name = name.replace("_", " ").title()
     problems.append((number, name, filename, url))
 
-problems = sorted(problems, key=lambda x: x[0])
-
+problems = sorted(problems, key=lambda x: int(x[0]))
 for problem in problems:
+    lines.append(" - [x] [{}]({}) - [:page_with_curl:]({})\n".format(problem[1], problem[3], problem[2]))
 
-    lines.append(
-        " - [x] [{}]({}) - [:page_with_curl:]({})\n".format(
-            problem[1], problem[3], problem[2]
-        )
-    )
+# for i in problems:
+    # print(i)
 
 with open("README.md", "w") as f:
-
     for line in lines:
-        # print(line)
         f.write(line)
+
