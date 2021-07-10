@@ -51,6 +51,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) - [:page_with_curl:](problems/566_reshape_the_matrix.py)
  - [x] [Delete Operation For Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) - [:page_with_curl:](problems/583_delete_operation_for_two_strings.py)
  - [x] [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) - [:page_with_curl:](problems/674_longest_continuous_increasing_subsequence.py)
+ - [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer) - [:page_with_curl:](problems/7_reverse_integer.py)
  - [x] [Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) - [:page_with_curl:](problems/703_kth_largest_element_in_a_stream.py)
  - [x] [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) - [:page_with_curl:](problems/771_jewels_and_stones.py)
  - [x] [Maximize Distance To Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) - [:page_with_curl:](problems/849_maximize_distance_to_closest_person.py)
