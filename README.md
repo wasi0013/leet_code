@@ -57,3 +57,4 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - [:page_with_curl:](problems/1672_richest_customer_wealth.py)
  - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) - [:page_with_curl:](problems/1678_goal_parser_interpretation.py)
  - [x] [Decode Xored Array](https://leetcode.com/problems/decode-xored-array) - [:page_with_curl:](problems/1720_decode_xored_array.py)
+ - [x] [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) - [:page_with_curl:](problems/1930_unique_length_3_palindromic_subsequences.py)
