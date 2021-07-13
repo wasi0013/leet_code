@@ -7,7 +7,6 @@ with open("README.md", "r") as f:
         if "## Solved" in line:
             break
         lines.append(line)
-lines.append("## Solved\n\n")
 
 problems = []
 for filename in glob("problems/*.py"):
@@ -24,6 +23,7 @@ for problem in problems:
 # for i in problems:
     # print(i)
 
+lines.append("## Solved ({})\n\n".format(len(problems)))
 with open("README.md", "w") as f:
     for line in lines:
         f.write(line)
