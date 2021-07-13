@@ -1,8 +1,6 @@
 <a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="20%" width="20%" alt="LeetCode Logo"></a>
 
 all of my [:snake:](https://python.org) leetcode solutions.
-## Solved
-
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
  - [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer) - [:page_with_curl:](problems/7_reverse_integer.py)
@@ -61,3 +59,5 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) - [:page_with_curl:](problems/1678_goal_parser_interpretation.py)
  - [x] [Decode Xored Array](https://leetcode.com/problems/decode-xored-array) - [:page_with_curl:](problems/1720_decode_xored_array.py)
  - [x] [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) - [:page_with_curl:](problems/1930_unique_length_3_palindromic_subsequences.py)
+## Solved (58)
+
