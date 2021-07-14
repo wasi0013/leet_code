@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (64)
+## Solved (65)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -16,6 +16,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - [:page_with_curl:](problems/88_merge_sorted_array.py)
  - [x] [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [:page_with_curl:](problems/121_best_time_to_buy_and_sell_stock.py)
  - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - [:page_with_curl:](problems/141_linked_list_cycle.py)
+ - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) - [:page_with_curl:](problems/152_maximum_product_subarray.py)
  - [x] [Min Stack](https://leetcode.com/problems/min-stack) - [:page_with_curl:](problems/155_min_stack.py)
  - [x] [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) - [:page_with_curl:](problems/160_intersection_of_two_linked_lists.py)
  - [x] [Majority Element](https://leetcode.com/problems/majority-element) - [:page_with_curl:](problems/169_majority_element.py)
