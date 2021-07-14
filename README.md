@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (62)
+## Solved (64)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -58,11 +58,13 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array) - [:page_with_curl:](problems/1480_running_sum_of_1d_array.py)
  - [x] [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) - [:page_with_curl:](problems/1512_number_of_good_pairs.py)
  - [x] [Shuffle String](https://leetcode.com/problems/shuffle-string) - [:page_with_curl:](problems/1528_shuffle_string.py)
+ - [x] [Thousand Separator](https://leetcode.com/problems/thousand-separator) - [:page_with_curl:](problems/1556_thousand_separator.py)
  - [x] [Design Parking System](https://leetcode.com/problems/design-parking-system) - [:page_with_curl:](problems/1603_design_parking_system.py)
  - [x] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) - [:page_with_curl:](problems/1668_maximum_repeating_substring.py)
  - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - [:page_with_curl:](problems/1672_richest_customer_wealth.py)
  - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) - [:page_with_curl:](problems/1678_goal_parser_interpretation.py)
  - [x] [Decode Xored Array](https://leetcode.com/problems/decode-xored-array) - [:page_with_curl:](problems/1720_decode_xored_array.py)
+ - [x] [Check If Word Equals Summation Of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) - [:page_with_curl:](problems/1880_check_if_word_equals_summation_of_two_words.py)
  - [x] [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) - [:page_with_curl:](problems/1920_build_array_from_permutation.py)
  - [x] [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array) - [:page_with_curl:](problems/1929_concatenation_of_array.py)
  - [x] [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) - [:page_with_curl:](problems/1930_unique_length_3_palindromic_subsequences.py)
