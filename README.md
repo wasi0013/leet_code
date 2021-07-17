@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (66)
+## Solved (69)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -62,6 +62,9 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Shuffle String](https://leetcode.com/problems/shuffle-string) - [:page_with_curl:](problems/1528_shuffle_string.py)
  - [x] [Thousand Separator](https://leetcode.com/problems/thousand-separator) - [:page_with_curl:](problems/1556_thousand_separator.py)
  - [x] [Design Parking System](https://leetcode.com/problems/design-parking-system) - [:page_with_curl:](problems/1603_design_parking_system.py)
+ - [x] [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) - [:page_with_curl:](problems/1662_check_if_two_string_arrays_are_equivalent.py)
+ - [x] [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) - [:page_with_curl:](problems/1663_smallest_string_with_a_given_numeric_value.py)
+ - [x] [Ways To Make A Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array) - [:page_with_curl:](problems/1664_ways_to_make_a_fair_array.py)
  - [x] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) - [:page_with_curl:](problems/1668_maximum_repeating_substring.py)
  - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - [:page_with_curl:](problems/1672_richest_customer_wealth.py)
  - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) - [:page_with_curl:](problems/1678_goal_parser_interpretation.py)
