@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (75)
+## Solved (76)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -72,6 +72,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) - [:page_with_curl:](problems/1668_maximum_repeating_substring.py)
  - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - [:page_with_curl:](problems/1672_richest_customer_wealth.py)
  - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) - [:page_with_curl:](problems/1678_goal_parser_interpretation.py)
+ - [x] [Number Of Students Unable To Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) - [:page_with_curl:](problems/1700_number_of_students_unable_to_eat_lunch.py)
  - [x] [Decode Xored Array](https://leetcode.com/problems/decode-xored-array) - [:page_with_curl:](problems/1720_decode_xored_array.py)
  - [x] [Check If Word Equals Summation Of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) - [:page_with_curl:](problems/1880_check_if_word_equals_summation_of_two_words.py)
  - [x] [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) - [:page_with_curl:](problems/1920_build_array_from_permutation.py)
