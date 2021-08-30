@@ -2,19 +2,22 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (71)
+## Solved (75)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
  - [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer) - [:page_with_curl:](problems/7_reverse_integer.py)
  - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - [:page_with_curl:](problems/11_container_with_most_water.py)
  - [x] [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - [:page_with_curl:](problems/13_roman_to_integer.py)
+ - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - [:page_with_curl:](problems/14_longest_common_prefix.py)
  - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - [:page_with_curl:](problems/20_valid_parentheses.py)
  - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [:page_with_curl:](problems/21_merge_two_sorted_lists.py)
  - [x] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [:page_with_curl:](problems/26_remove_duplicates_from_sorted_array.py)
  - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [:page_with_curl:](problems/53_maximum_subarray.py)
  - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - [:page_with_curl:](problems/88_merge_sorted_array.py)
  - [x] [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [:page_with_curl:](problems/121_best_time_to_buy_and_sell_stock.py)
+ - [x] [Single Number](https://leetcode.com/problems/single-number) - [:page_with_curl:](problems/136_single_number.py)
+ - [x] [Single Number Ii](https://leetcode.com/problems/single-number-ii) - [:page_with_curl:](problems/137_single_number_ii.py)
  - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - [:page_with_curl:](problems/141_linked_list_cycle.py)
  - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) - [:page_with_curl:](problems/152_maximum_product_subarray.py)
  - [x] [Min Stack](https://leetcode.com/problems/min-stack) - [:page_with_curl:](problems/155_min_stack.py)
@@ -29,6 +32,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) - [:page_with_curl:](problems/217_contains_duplicate.py)
  - [x] [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - [:page_with_curl:](problems/238_product_of_array_except_self.py)
  - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) - [:page_with_curl:](problems/242_valid_anagram.py)
+ - [x] [Single Number Iii](https://leetcode.com/problems/single-number-iii) - [:page_with_curl:](problems/260_single_number_iii.py)
  - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) - [:page_with_curl:](problems/300_longest_increasing_subsequence.py)
  - [x] [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) - [:page_with_curl:](problems/303_range_sum_query_immutable.py)
  - [x] [Power Of Three](https://leetcode.com/problems/power-of-three) - [:page_with_curl:](problems/326_power_of_three.py)
