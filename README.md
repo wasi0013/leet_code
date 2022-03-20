@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (76)
+## Solved (77)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -13,6 +13,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - [:page_with_curl:](problems/20_valid_parentheses.py)
  - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [:page_with_curl:](problems/21_merge_two_sorted_lists.py)
  - [x] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [:page_with_curl:](problems/26_remove_duplicates_from_sorted_array.py)
+ - [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive) - [:page_with_curl:](problems/41_first_missing_positive.py)
  - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [:page_with_curl:](problems/53_maximum_subarray.py)
  - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - [:page_with_curl:](problems/88_merge_sorted_array.py)
  - [x] [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [:page_with_curl:](problems/121_best_time_to_buy_and_sell_stock.py)
