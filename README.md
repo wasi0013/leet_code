@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (77)
+## Solved (79)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -30,6 +30,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Happy Number](https://leetcode.com/problems/happy-number) - [:page_with_curl:](problems/202_happy_number.py)
  - [x] [Count Primes](https://leetcode.com/problems/count-primes) - [:page_with_curl:](problems/204_count_primes.py)
  - [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) - [:page_with_curl:](problems/205_isomorphic_strings.py)
+ - [x] [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array) - [:page_with_curl:](problems/215_kth_largest_element_in_an_array.py)
  - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) - [:page_with_curl:](problems/217_contains_duplicate.py)
  - [x] [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - [:page_with_curl:](problems/238_product_of_array_except_self.py)
  - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) - [:page_with_curl:](problems/242_valid_anagram.py)
@@ -37,6 +38,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) - [:page_with_curl:](problems/300_longest_increasing_subsequence.py)
  - [x] [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) - [:page_with_curl:](problems/303_range_sum_query_immutable.py)
  - [x] [Power Of Three](https://leetcode.com/problems/power-of-three) - [:page_with_curl:](problems/326_power_of_three.py)
+ - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) - [:page_with_curl:](problems/347_top_k_frequent_elements.py)
  - [x] [Max Sum Of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) - [:page_with_curl:](problems/363_max_sum_of_rectangle_no_larger_than_k.py)
  - [x] [Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers) - [:page_with_curl:](problems/371_sum_of_two_integers.py)
  - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) - [:page_with_curl:](problems/412_fizz_buzz.py)
