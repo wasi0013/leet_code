@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (79)
+## Solved (80)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -43,6 +43,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers) - [:page_with_curl:](problems/371_sum_of_two_integers.py)
  - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) - [:page_with_curl:](problems/412_fizz_buzz.py)
  - [x] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) - [:page_with_curl:](problems/448_find_all_numbers_disappeared_in_an_array.py)
+ - [x] [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) - [:page_with_curl:](problems/485_max_consecutive_ones.py)
  - [x] [Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl) - [:page_with_curl:](problems/535_encode_and_decode_tinyurl.py)
  - [x] [Reverse Words In A String Iii](https://leetcode.com/problems/reverse-words-in-a-string-iii) - [:page_with_curl:](problems/557_reverse_words_in_a_string_iii.py)
  - [x] [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) - [:page_with_curl:](problems/566_reshape_the_matrix.py)
