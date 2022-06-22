@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (80)
+## Solved (83)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -35,12 +35,15 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - [:page_with_curl:](problems/238_product_of_array_except_self.py)
  - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) - [:page_with_curl:](problems/242_valid_anagram.py)
  - [x] [Single Number Iii](https://leetcode.com/problems/single-number-iii) - [:page_with_curl:](problems/260_single_number_iii.py)
+ - [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes) - [:page_with_curl:](problems/283_move_zeroes.py)
  - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) - [:page_with_curl:](problems/300_longest_increasing_subsequence.py)
  - [x] [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) - [:page_with_curl:](problems/303_range_sum_query_immutable.py)
  - [x] [Power Of Three](https://leetcode.com/problems/power-of-three) - [:page_with_curl:](problems/326_power_of_three.py)
+ - [x] [Reverse String](https://leetcode.com/problems/reverse-string) - [:page_with_curl:](problems/344_reverse_string.py)
  - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) - [:page_with_curl:](problems/347_top_k_frequent_elements.py)
  - [x] [Max Sum Of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) - [:page_with_curl:](problems/363_max_sum_of_rectangle_no_larger_than_k.py)
  - [x] [Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers) - [:page_with_curl:](problems/371_sum_of_two_integers.py)
+ - [x] [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) - [:page_with_curl:](problems/387_first_unique_character_in_a_string.py)
  - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) - [:page_with_curl:](problems/412_fizz_buzz.py)
  - [x] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) - [:page_with_curl:](problems/448_find_all_numbers_disappeared_in_an_array.py)
  - [x] [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) - [:page_with_curl:](problems/485_max_consecutive_ones.py)
