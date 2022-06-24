@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (84)
+## Solved (85)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -88,3 +88,4 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) - [:page_with_curl:](problems/1930_unique_length_3_palindromic_subsequences.py)
  - [x] [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) - [:page_with_curl:](problems/1935_maximum_number_of_words_you_can_type.py)
  - [x] [Add Minimum Number Of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs) - [:page_with_curl:](problems/1936_add_minimum_number_of_rungs.py)
+ - [x] [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) - [:page_with_curl:](problems/2264_largest_3_same_digit_number_in_string.py)
