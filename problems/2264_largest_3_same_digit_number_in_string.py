@@ -8,6 +8,6 @@ class Solution:
             if len(s) == 3:
                 good_nums.append(s)
                 
-        ans = str(max(good_nums, default=''))
+        ans = max(good_nums, default='')
         
         return "000" if ans == "0" else ans
