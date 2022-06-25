@@ -17,9 +17,9 @@ for filename in glob("problems/*.py"):
     problems.append((number, name, filename, url))
 
 problems = sorted(problems, key=lambda x: int(x[0]))
-lines.append("## Solved ({})\n\n".format(len(problems)))
-for problem in problems:
-    lines.append(" - [x] [{}]({}) - [:page_with_curl:]({})\n".format(problem[1], problem[3], problem[2]))
+lines.append(f"## Solved ({len(problems)})\n\n")
+for number, name, filename, url in problems:
+    lines.append(f" - [x] [{number}. {name}]({url}) - [:page_with_curl:]({filename})\n")
 
 # for i in problems:
     # print(i)
