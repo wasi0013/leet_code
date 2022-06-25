@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (85)
+## Solved (86)
 
  - [x] [Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -52,6 +52,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [Reverse Words In A String Iii](https://leetcode.com/problems/reverse-words-in-a-string-iii) - [:page_with_curl:](problems/557_reverse_words_in_a_string_iii.py)
  - [x] [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) - [:page_with_curl:](problems/566_reshape_the_matrix.py)
  - [x] [Delete Operation For Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) - [:page_with_curl:](problems/583_delete_operation_for_two_strings.py)
+ - [x] [Non Decreasing Array](https://leetcode.com/problems/non-decreasing-array) - [:page_with_curl:](problems/665_non_decreasing_array.py)
  - [x] [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) - [:page_with_curl:](problems/674_longest_continuous_increasing_subsequence.py)
  - [x] [Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) - [:page_with_curl:](problems/703_kth_largest_element_in_a_stream.py)
  - [x] [1 Bit And 2 Bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) - [:page_with_curl:](problems/717_1_bit_and_2_bit_characters.py)
