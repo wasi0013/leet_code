@@ -2,7 +2,7 @@
 
 all of my [:snake:](https://python.org) leetcode solutions.
 
-## Solved (86)
+## Solved (87)
 
  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -56,6 +56,7 @@ all of my [:snake:](https://python.org) leetcode solutions.
  - [x] [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) - [:page_with_curl:](problems/674_longest_continuous_increasing_subsequence.py)
  - [x] [703. Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) - [:page_with_curl:](problems/703_kth_largest_element_in_a_stream.py)
  - [x] [717. 1 Bit And 2 Bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) - [:page_with_curl:](problems/717_1_bit_and_2_bit_characters.py)
+ - [x] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) - [:page_with_curl:](problems/724_find_pivot_index.py)
  - [x] [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - [:page_with_curl:](problems/728_self_dividing_numbers.py)
  - [x] [771. Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) - [:page_with_curl:](problems/771_jewels_and_stones.py)
  - [x] [849. Maximize Distance To Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) - [:page_with_curl:](problems/849_maximize_distance_to_closest_person.py)
