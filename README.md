@@ -1,6 +1,7 @@
-<a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="20%" width="20%" alt="LeetCode Logo"></a>
-
-all of my [:snake:](https://python.org) leetcode solutions.
+<p align="center"> <a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="25%" width="25%" alt="LeetCode Logo"></a> </p>
+<p align="center">
+<a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://leetcode-stats.vercel.app/api?username=wasi0013&theme=Light" alt="LeetCode Python 3 solutions"> </a>
+</p>
 
 ## Solved (87)
 
