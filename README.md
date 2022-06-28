@@ -3,7 +3,7 @@
 <a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://leetcode-stats.vercel.app/api?username=wasi0013&theme=Light" alt="LeetCode Python 3 solutions"> </a>
 </p>
 
-## Solved (88)
+## Solved (89)
 
  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -20,6 +20,7 @@
  - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [:page_with_curl:](problems/53_maximum_subarray.py)
  - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - [:page_with_curl:](problems/88_merge_sorted_array.py)
  - [x] [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [:page_with_curl:](problems/121_best_time_to_buy_and_sell_stock.py)
+ - [x] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) - [:page_with_curl:](problems/128_longest_consecutive_sequence.py)
  - [x] [136. Single Number](https://leetcode.com/problems/single-number) - [:page_with_curl:](problems/136_single_number.py)
  - [x] [137. Single Number Ii](https://leetcode.com/problems/single-number-ii) - [:page_with_curl:](problems/137_single_number_ii.py)
  - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - [:page_with_curl:](problems/141_linked_list_cycle.py)
