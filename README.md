@@ -3,7 +3,7 @@
 <a target="_blank" href="https://leetcode.com/wasi0013/"><img src="https://leetcode-stats.vercel.app/api?username=wasi0013&theme=Light" alt="LeetCode Python 3 solutions"> </a>
 </p>
 
-## Solved (87)
+## Solved (88)
 
  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum) - [:page_with_curl:](problems/1_two_sum.py)
  - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [:page_with_curl:](problems/3_longest_substring_without_repeating_characters.py)
@@ -14,6 +14,7 @@
  - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - [:page_with_curl:](problems/20_valid_parentheses.py)
  - [x] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [:page_with_curl:](problems/21_merge_two_sorted_lists.py)
  - [x] [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [:page_with_curl:](problems/26_remove_duplicates_from_sorted_array.py)
+ - [x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - [:page_with_curl:](problems/36_valid_sudoku.py)
  - [x] [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) - [:page_with_curl:](problems/41_first_missing_positive.py)
  - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) - [:page_with_curl:](problems/49_group_anagrams.py)
  - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [:page_with_curl:](problems/53_maximum_subarray.py)
